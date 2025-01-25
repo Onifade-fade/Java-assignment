@@ -1,4 +1,4 @@
-// 1a
+// Question 1a
 public class NigeriaFlagSingleLoop {
     public static void main(String[] args) {
         int height = 7; // Number of rows
@@ -20,7 +20,7 @@ public class NigeriaFlagSingleLoop {
 }
 
 
-// 1b
+// Question 1b
 public class NigeriaFlagNestedLoop {
     public static void main(String[] args) {
         int height = 7; // Number of rows
@@ -41,7 +41,7 @@ public class NigeriaFlagNestedLoop {
 
 
 
-// 2a
+// Question 2a
 public class NigeriaFlagSingleLoop {
     public static void main(String[] args) {
         int rows = 7;  // Number of rows
@@ -63,7 +63,7 @@ public class NigeriaFlagSingleLoop {
 }
 
 
-// 2b
+// Question 2b
 public class NigeriaFlagNestedLoop {
     public static void main(String[] args) {
         int rows = 7;  // Number of rows
@@ -84,7 +84,7 @@ public class NigeriaFlagNestedLoop {
 }
 
 
-// 3
+// Question 3
 import java.util.Arrays;
 
 public class ArrayStatistics {
@@ -137,7 +137,7 @@ public class ArrayStatistics {
     }
 }
 
-// 4
+// Question 4
 import java.util.Scanner;
 
 public class ArrayInputOutput {
@@ -164,7 +164,7 @@ public class ArrayInputOutput {
 }
 
 
-// 5
+// Question 5
 import java.util.Scanner;
 
 public class TwoDArrayInputOutput {
